@@ -15,3 +15,5 @@ Tech-Stack:
 - MySQL
 - HTML
 - CSS
+
+You can use clone and use the system all you want. Just make sure to put it inside the htdocs and use xampp.
